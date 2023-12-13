@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lab-manager/static/css/main.905c69ed.css",
+    "main.js": "/lab-manager/static/js/main.176e72c6.js",
+    "index.html": "/lab-manager/index.html",
+    "main.905c69ed.css.map": "/lab-manager/static/css/main.905c69ed.css.map",
+    "main.176e72c6.js.map": "/lab-manager/static/js/main.176e72c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.905c69ed.css",
+    "static/js/main.176e72c6.js"
+  ]
+}
